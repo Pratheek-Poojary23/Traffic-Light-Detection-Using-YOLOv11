@@ -1,0 +1,5 @@
+train: C:\Users\PRATHEEK POOJARY\OneDrive\Desktop\YOLOv11 Object Detection on Custom dataset\train
+val: C:\Users\PRATHEEK POOJARY\OneDrive\Desktop\YOLOv11 Object Detection on Custom dataset\val
+
+nc: 2
+names: ['greenlight','redlight']
