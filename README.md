@@ -4,6 +4,13 @@ This project focuses on detecting red and green traffic lights using a custom-tr
 
 ---
 
+## 📸 Sample Output
+
+![Traffic Light Detection](https://github.com/Pratheek-Poojary23/Traffic-Light-Detection-Using-YOLOv11/blob/main/runs/detect/predict/2.jpg)
+
+*Red and Green traffic light detection using YOLOv11*
+
+
 ## 📁 Project Structure
 ```
 images/                   # All collected traffic light images
